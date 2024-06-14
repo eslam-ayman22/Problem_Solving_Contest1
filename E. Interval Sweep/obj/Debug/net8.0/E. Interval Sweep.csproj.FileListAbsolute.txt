@@ -1,0 +1,14 @@
+D:\Contest 1_Codeforces\E. Interval Sweep\bin\Debug\net8.0\E. Interval Sweep.exe
+D:\Contest 1_Codeforces\E. Interval Sweep\bin\Debug\net8.0\E. Interval Sweep.deps.json
+D:\Contest 1_Codeforces\E. Interval Sweep\bin\Debug\net8.0\E. Interval Sweep.runtimeconfig.json
+D:\Contest 1_Codeforces\E. Interval Sweep\bin\Debug\net8.0\E. Interval Sweep.dll
+D:\Contest 1_Codeforces\E. Interval Sweep\bin\Debug\net8.0\E. Interval Sweep.pdb
+D:\Contest 1_Codeforces\E. Interval Sweep\obj\Debug\net8.0\E. Interval Sweep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Contest 1_Codeforces\E. Interval Sweep\obj\Debug\net8.0\E. Interval Sweep.AssemblyInfoInputs.cache
+D:\Contest 1_Codeforces\E. Interval Sweep\obj\Debug\net8.0\E. Interval Sweep.AssemblyInfo.cs
+D:\Contest 1_Codeforces\E. Interval Sweep\obj\Debug\net8.0\E. Interval Sweep.csproj.CoreCompileInputs.cache
+D:\Contest 1_Codeforces\E. Interval Sweep\obj\Debug\net8.0\E. Interval Sweep.dll
+D:\Contest 1_Codeforces\E. Interval Sweep\obj\Debug\net8.0\refint\E. Interval Sweep.dll
+D:\Contest 1_Codeforces\E. Interval Sweep\obj\Debug\net8.0\E. Interval Sweep.pdb
+D:\Contest 1_Codeforces\E. Interval Sweep\obj\Debug\net8.0\E. Interval Sweep.genruntimeconfig.cache
+D:\Contest 1_Codeforces\E. Interval Sweep\obj\Debug\net8.0\ref\E. Interval Sweep.dll

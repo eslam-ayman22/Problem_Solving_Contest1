@@ -1,0 +1,14 @@
+D:\Contest 1_Codeforces\I. Lucky Numbers\bin\Debug\net8.0\I. Lucky Numbers.exe
+D:\Contest 1_Codeforces\I. Lucky Numbers\bin\Debug\net8.0\I. Lucky Numbers.deps.json
+D:\Contest 1_Codeforces\I. Lucky Numbers\bin\Debug\net8.0\I. Lucky Numbers.runtimeconfig.json
+D:\Contest 1_Codeforces\I. Lucky Numbers\bin\Debug\net8.0\I. Lucky Numbers.dll
+D:\Contest 1_Codeforces\I. Lucky Numbers\bin\Debug\net8.0\I. Lucky Numbers.pdb
+D:\Contest 1_Codeforces\I. Lucky Numbers\obj\Debug\net8.0\I. Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Contest 1_Codeforces\I. Lucky Numbers\obj\Debug\net8.0\I. Lucky Numbers.AssemblyInfoInputs.cache
+D:\Contest 1_Codeforces\I. Lucky Numbers\obj\Debug\net8.0\I. Lucky Numbers.AssemblyInfo.cs
+D:\Contest 1_Codeforces\I. Lucky Numbers\obj\Debug\net8.0\I. Lucky Numbers.csproj.CoreCompileInputs.cache
+D:\Contest 1_Codeforces\I. Lucky Numbers\obj\Debug\net8.0\I. Lucky Numbers.dll
+D:\Contest 1_Codeforces\I. Lucky Numbers\obj\Debug\net8.0\refint\I. Lucky Numbers.dll
+D:\Contest 1_Codeforces\I. Lucky Numbers\obj\Debug\net8.0\I. Lucky Numbers.pdb
+D:\Contest 1_Codeforces\I. Lucky Numbers\obj\Debug\net8.0\I. Lucky Numbers.genruntimeconfig.cache
+D:\Contest 1_Codeforces\I. Lucky Numbers\obj\Debug\net8.0\ref\I. Lucky Numbers.dll

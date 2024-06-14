@@ -1,0 +1,14 @@
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\bin\Debug\net8.0\D. Ali Baba and Puzzles.exe
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\bin\Debug\net8.0\D. Ali Baba and Puzzles.deps.json
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\bin\Debug\net8.0\D. Ali Baba and Puzzles.runtimeconfig.json
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\bin\Debug\net8.0\D. Ali Baba and Puzzles.dll
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\bin\Debug\net8.0\D. Ali Baba and Puzzles.pdb
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\obj\Debug\net8.0\D. Ali Baba and Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\obj\Debug\net8.0\D. Ali Baba and Puzzles.AssemblyInfoInputs.cache
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\obj\Debug\net8.0\D. Ali Baba and Puzzles.AssemblyInfo.cs
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\obj\Debug\net8.0\D. Ali Baba and Puzzles.csproj.CoreCompileInputs.cache
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\obj\Debug\net8.0\D. Ali Baba and Puzzles.dll
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\obj\Debug\net8.0\refint\D. Ali Baba and Puzzles.dll
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\obj\Debug\net8.0\D. Ali Baba and Puzzles.pdb
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\obj\Debug\net8.0\D. Ali Baba and Puzzles.genruntimeconfig.cache
+D:\Contest 1_Codeforces\D. Ali Baba and Puzzles\obj\Debug\net8.0\ref\D. Ali Baba and Puzzles.dll

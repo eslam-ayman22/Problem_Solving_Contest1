@@ -1,0 +1,14 @@
+D:\Contest 1_Codeforces\F. Adding Bits\bin\Debug\net8.0\F. Adding Bits.exe
+D:\Contest 1_Codeforces\F. Adding Bits\bin\Debug\net8.0\F. Adding Bits.deps.json
+D:\Contest 1_Codeforces\F. Adding Bits\bin\Debug\net8.0\F. Adding Bits.runtimeconfig.json
+D:\Contest 1_Codeforces\F. Adding Bits\bin\Debug\net8.0\F. Adding Bits.dll
+D:\Contest 1_Codeforces\F. Adding Bits\bin\Debug\net8.0\F. Adding Bits.pdb
+D:\Contest 1_Codeforces\F. Adding Bits\obj\Debug\net8.0\F. Adding Bits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Contest 1_Codeforces\F. Adding Bits\obj\Debug\net8.0\F. Adding Bits.AssemblyInfoInputs.cache
+D:\Contest 1_Codeforces\F. Adding Bits\obj\Debug\net8.0\F. Adding Bits.AssemblyInfo.cs
+D:\Contest 1_Codeforces\F. Adding Bits\obj\Debug\net8.0\F. Adding Bits.csproj.CoreCompileInputs.cache
+D:\Contest 1_Codeforces\F. Adding Bits\obj\Debug\net8.0\F. Adding Bits.dll
+D:\Contest 1_Codeforces\F. Adding Bits\obj\Debug\net8.0\refint\F. Adding Bits.dll
+D:\Contest 1_Codeforces\F. Adding Bits\obj\Debug\net8.0\F. Adding Bits.pdb
+D:\Contest 1_Codeforces\F. Adding Bits\obj\Debug\net8.0\F. Adding Bits.genruntimeconfig.cache
+D:\Contest 1_Codeforces\F. Adding Bits\obj\Debug\net8.0\ref\F. Adding Bits.dll

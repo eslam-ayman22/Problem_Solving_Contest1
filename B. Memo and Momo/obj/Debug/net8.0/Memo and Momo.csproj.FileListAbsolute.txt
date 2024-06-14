@@ -1,0 +1,14 @@
+D:\Contest 1_Codeforces\Memo and Momo\bin\Debug\net8.0\Memo and Momo.exe
+D:\Contest 1_Codeforces\Memo and Momo\bin\Debug\net8.0\Memo and Momo.deps.json
+D:\Contest 1_Codeforces\Memo and Momo\bin\Debug\net8.0\Memo and Momo.runtimeconfig.json
+D:\Contest 1_Codeforces\Memo and Momo\bin\Debug\net8.0\Memo and Momo.dll
+D:\Contest 1_Codeforces\Memo and Momo\bin\Debug\net8.0\Memo and Momo.pdb
+D:\Contest 1_Codeforces\Memo and Momo\obj\Debug\net8.0\Memo and Momo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Contest 1_Codeforces\Memo and Momo\obj\Debug\net8.0\Memo and Momo.AssemblyInfoInputs.cache
+D:\Contest 1_Codeforces\Memo and Momo\obj\Debug\net8.0\Memo and Momo.AssemblyInfo.cs
+D:\Contest 1_Codeforces\Memo and Momo\obj\Debug\net8.0\Memo and Momo.csproj.CoreCompileInputs.cache
+D:\Contest 1_Codeforces\Memo and Momo\obj\Debug\net8.0\Memo and Momo.dll
+D:\Contest 1_Codeforces\Memo and Momo\obj\Debug\net8.0\refint\Memo and Momo.dll
+D:\Contest 1_Codeforces\Memo and Momo\obj\Debug\net8.0\Memo and Momo.pdb
+D:\Contest 1_Codeforces\Memo and Momo\obj\Debug\net8.0\Memo and Momo.genruntimeconfig.cache
+D:\Contest 1_Codeforces\Memo and Momo\obj\Debug\net8.0\ref\Memo and Momo.dll

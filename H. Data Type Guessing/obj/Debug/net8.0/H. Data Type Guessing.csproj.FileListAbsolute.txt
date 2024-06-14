@@ -1,0 +1,14 @@
+D:\Contest 1_Codeforces\H. Data Type Guessing\bin\Debug\net8.0\H. Data Type Guessing.exe
+D:\Contest 1_Codeforces\H. Data Type Guessing\bin\Debug\net8.0\H. Data Type Guessing.deps.json
+D:\Contest 1_Codeforces\H. Data Type Guessing\bin\Debug\net8.0\H. Data Type Guessing.runtimeconfig.json
+D:\Contest 1_Codeforces\H. Data Type Guessing\bin\Debug\net8.0\H. Data Type Guessing.dll
+D:\Contest 1_Codeforces\H. Data Type Guessing\bin\Debug\net8.0\H. Data Type Guessing.pdb
+D:\Contest 1_Codeforces\H. Data Type Guessing\obj\Debug\net8.0\H. Data Type Guessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Contest 1_Codeforces\H. Data Type Guessing\obj\Debug\net8.0\H. Data Type Guessing.AssemblyInfoInputs.cache
+D:\Contest 1_Codeforces\H. Data Type Guessing\obj\Debug\net8.0\H. Data Type Guessing.AssemblyInfo.cs
+D:\Contest 1_Codeforces\H. Data Type Guessing\obj\Debug\net8.0\H. Data Type Guessing.csproj.CoreCompileInputs.cache
+D:\Contest 1_Codeforces\H. Data Type Guessing\obj\Debug\net8.0\H. Data Type Guessing.dll
+D:\Contest 1_Codeforces\H. Data Type Guessing\obj\Debug\net8.0\refint\H. Data Type Guessing.dll
+D:\Contest 1_Codeforces\H. Data Type Guessing\obj\Debug\net8.0\H. Data Type Guessing.pdb
+D:\Contest 1_Codeforces\H. Data Type Guessing\obj\Debug\net8.0\H. Data Type Guessing.genruntimeconfig.cache
+D:\Contest 1_Codeforces\H. Data Type Guessing\obj\Debug\net8.0\ref\H. Data Type Guessing.dll

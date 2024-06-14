@@ -1,0 +1,14 @@
+D:\Contest 1_Codeforces\C. Next Alphabet\bin\Debug\net8.0\C. Next Alphabet.exe
+D:\Contest 1_Codeforces\C. Next Alphabet\bin\Debug\net8.0\C. Next Alphabet.deps.json
+D:\Contest 1_Codeforces\C. Next Alphabet\bin\Debug\net8.0\C. Next Alphabet.runtimeconfig.json
+D:\Contest 1_Codeforces\C. Next Alphabet\bin\Debug\net8.0\C. Next Alphabet.dll
+D:\Contest 1_Codeforces\C. Next Alphabet\bin\Debug\net8.0\C. Next Alphabet.pdb
+D:\Contest 1_Codeforces\C. Next Alphabet\obj\Debug\net8.0\C. Next Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Contest 1_Codeforces\C. Next Alphabet\obj\Debug\net8.0\C. Next Alphabet.AssemblyInfoInputs.cache
+D:\Contest 1_Codeforces\C. Next Alphabet\obj\Debug\net8.0\C. Next Alphabet.AssemblyInfo.cs
+D:\Contest 1_Codeforces\C. Next Alphabet\obj\Debug\net8.0\C. Next Alphabet.csproj.CoreCompileInputs.cache
+D:\Contest 1_Codeforces\C. Next Alphabet\obj\Debug\net8.0\C. Next Alphabet.dll
+D:\Contest 1_Codeforces\C. Next Alphabet\obj\Debug\net8.0\refint\C. Next Alphabet.dll
+D:\Contest 1_Codeforces\C. Next Alphabet\obj\Debug\net8.0\C. Next Alphabet.pdb
+D:\Contest 1_Codeforces\C. Next Alphabet\obj\Debug\net8.0\C. Next Alphabet.genruntimeconfig.cache
+D:\Contest 1_Codeforces\C. Next Alphabet\obj\Debug\net8.0\ref\C. Next Alphabet.dll
